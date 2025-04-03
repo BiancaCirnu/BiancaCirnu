@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=BiancaCirnu&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=BiancaCirnu&color=ff69b4)</br>
 My name is Bianca-Georgiana Cirnu.</br>
 I am a Computer Science student at Babes-Bolyai University eager to develop my knowledge in this field. </br>
 
